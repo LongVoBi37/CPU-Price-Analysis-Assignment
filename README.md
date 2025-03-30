@@ -1,5 +1,3 @@
-# CPU Price Analysis Assignment
-
 ## Overview
 The purpose of this repository is to provide an assignment for a Probability and Statistics course (MT2013). The assignment involves analyzing CPU prices based on their technical attributes using multivariate linear regression, with the implementation coded in R.
 
@@ -12,5 +10,3 @@ This repository contains the following:
 
 ## Technologies Used
 - **R**: The primary programming language used for statistical analysis and modeling.
-
-This repository is geared towards educational purposes, helping students understand the application of multivariate linear regression in a real-world context.
